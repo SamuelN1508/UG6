@@ -6,15 +6,14 @@ Aplikasi ini menggunakan Java OOP, JDBC, dan Database SQL untuk menyimpan serta 
 
 1. **Role Dokter:**
    * Menambahkan rekam medis baru untuk pasien (Insert).
+   * Mendaftarkan akun Dokter/Pasien baru dari dalam sistem.
    * Mengedit diagnosis rekam medis (Update).
    * Menghapus rekam medis (Delete).
    * Melihat semua data rekam medis di sistem (Read All).
    * Mencari data rekam medis berdasarkan sebagian nama pasien (Search menggunakan `LIKE`).
-   * Mendaftarkan akun Dokter/Pasien baru dari dalam sistem.
 
 2. **Role Pasien:**
    * Hanya dapat melihat riwayat rekam medis (Read Specific).
-
 
 ![alt text](LoginDokter.png?raw=true)
 ![alt text](LoginPasien.png?raw=true)
