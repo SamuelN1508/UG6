@@ -1,2 +1,2 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](SamuelN1508/UG6/blob/main/AsylumDiagram.png?raw=true)
 Sistem Manajemen Mental Asylum (Tugas Praktikum JDBC - UG6)
