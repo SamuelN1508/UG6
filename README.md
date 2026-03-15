@@ -1,5 +1,5 @@
 ![alt text](AsylumDiagram.png?raw=true)
-# Sistem Manajemen Mental Asylum (Tugas Praktikum JDBC - UG6)
+# Sistem Manajemen Asylum (Tugas Praktikum JDBC - UG6)
 
 Aplikasi ini memiliki sistem *Role-Based Access Control* (RBAC) yang ketat:
 
