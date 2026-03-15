@@ -1,7 +1,8 @@
 ![alt text](AsylumDiagram.png?raw=true)
 # Sistem Manajemen Asylum (Tugas Praktikum JDBC - UG6)
+AsylumSystem adalah aplikasi berbasis Java Console yang digunakan untuk mengelola data rekam medis pasien. Sistem ini memiliki fitur autentikasi pengguna, manajemen rekam medis, serta role-based access antara dokter dan pasien.
 
-Aplikasi ini memiliki sistem *Role-Based Access Control* (RBAC) yang ketat:
+Aplikasi ini menggunakan Java OOP, JDBC, dan Database SQL untuk menyimpan serta mengelola data.
 
 1. **Role Dokter:**
    * Menambahkan rekam medis baru untuk pasien (Insert).
