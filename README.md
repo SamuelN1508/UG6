@@ -14,3 +14,8 @@ Aplikasi ini menggunakan Java OOP, JDBC, dan Database SQL untuk menyimpan serta 
 
 2. **Role Pasien:**
    * Hanya dapat melihat riwayat rekam medis (Read Specific).
+
+
+![alt text](LoginDokter.png?raw=true)
+![alt text](LoginPasien.png?raw=true)
+![alt text](SalahLogin.png?raw=true)
